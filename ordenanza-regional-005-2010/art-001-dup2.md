@@ -1,0 +1,2 @@
+Artículo 1º.- Objeto
+El presente reglamento tiene por objeto establecer mecanismos de control, el procedimiento administrativo para una adecuada fiscalización, control, regulación en el uso de maquinaria pesada, equipo minero y vehículos empleados en actividades mineras dentro de los alcances de pequeña minería y minería artesanal previsto en el artículo 91° del Texto Único Ordenado de la Ley General de Minería, en el ámbito de la Región Puno.
