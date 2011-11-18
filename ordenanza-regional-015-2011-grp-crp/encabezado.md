@@ -1,0 +1,13 @@
+ORDENANZA REGIONAL
+Nº 015-2011-GRP-CRP
+EL CONSEJO REGIONAL DEL GOBIERNO REGIONAL DE PUNO.
+VISTO:
+En el Consejo Regional del Gobierno Regional Puno, en sesión ordinaria llevada a cabo el día 16 de agosto del 2011, se ha debatido y aprobado la Ordenanza Regional siguiente;
+CONSIDERANDO:
+Que, la Constitución Política del Estado considera que la descentralización es una forma de organización democrática y constituye una política permanente del Estado, de carácter obligatorio, que tiene como objetivo fundamental el desarrollo integral del país; con este propósito se ha otorgado a los Gobiernos Regionales autonomía política, económica y administrativa en los asuntos de su competencia.
+Que, de conformidad al artículo 13º de la Ley Nº 27867, el Consejo Regional es el órgano normativo y fiscalizador del Gobierno Regional, de igual forma el artículo 15º literal a) de la norma señalada, es atribución del Consejo Regional, aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materia se su competencia y funciones del Gobierno Regional, y el artículo 37º literal a) indica que el Consejo Regional dicta Ordenanzas y Acuerdos Regionales.
+Que en fecha 16 de junio del presente año, se constituyeron al Hospital Regional Manuel Núñez Butrón, la Comisión Especial de verificación de infraestructura del H.R.M.N.B. y Consejeros Regionales de diferentes provincias con la finalidad de verificar el estado de infraestructura del mencionado nosocomio, en respuesta a la visita ante el Consejo Regional por parte de los directivos del hospital y miembros del Sindicato del hospital, quienes expusieron la problemática de la infraestructura.
+Que el H.R.M.N.B. se encuentra en estado de deterioro en razón de que en fecha 15 de Octubre de 1965 inició su funcionamiento, siendo a la fecha 45 años de operatividad del Hospital, sin que durante el tiempo transcurrido haya recibido el mantenimiento adecuado. Siendo de prioridad establecer las acciones necesarias para una adecuada atención a los pobladores.
+Que, mediante informe de la Comisión Especial de verificación de infraestructura del H.R.M.N.B., informe Nº 001-2011-DCRP-GRP, detalla la situación actual en que se encuentra la infraestructura, el estado del equipamiento en las diferentes áreas, y las condiciones en las cuales vienen atendiendo a los usuarios, siendo las conclusiones que es necesario la construcción en el corto o mediano plazo de una nueva infraestructura del Hospital Regional debidamente equipado de acuerdo a la tecnología, por ser el hospital referencial de la Región Puno.
+En uso de las facultades conferidas por Ley 27867, Ley Orgánica de Gobiernos Regionales y su modificatoria Ley 27902.
+ORDENA:
