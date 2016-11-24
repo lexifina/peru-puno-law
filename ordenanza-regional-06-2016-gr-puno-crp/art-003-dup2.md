@@ -1,0 +1,1 @@
+Artículo Tercero.- ENCARGAR, Las funciones de la unidad operativa del SIRECOP, a la Sub Gerencia de Recursos Naturales de la Gerencia Regional de Recursos Naturales y Gestión del Medio Ambiente, la misma que se encargará de ejecutar las funciones, en el marco del Sistema Regional de Conservación de Puno:
