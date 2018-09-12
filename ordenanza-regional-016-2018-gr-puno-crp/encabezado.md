@@ -1,0 +1,15 @@
+ORDENANZA REGIONAL
+N° 016-2018-GR PUNO-CRP
+DEROGA LA ORDENANZA REGIONAL
+N° 010-2018-GR PUNO-CRP
+EL CONSEJO REGIONAL DEL GOBIERNO
+REGIONAL PUNO:
+VISTO:
+En Sesión Ordinaria del Consejo Regional, llevada a cabo el día 12 de julio del 2018, el Pleno del Consejo Regional ha aprobado la emisión de la Ordenanza Regional, con la dispensa del trámite de lectura y aprobación del Acta respectiva, y;
+CONSIDERANDO:
+Que, conforme lo estipula el artículo 191° de la Constitución Política del Perú “los Gobiernos Regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia. La estructura orgánica básica de los Gobiernos Regionales lo conforma el Consejo Regional, como órgano normativo y fiscalizador”.
+Que, la Ley N° 27867 “Ley Orgánica de Gobiernos Regionales”, en su artículo 13° establece que “El Consejo Regional es el órgano normativo y fiscalizador del Gobierno Regional. Le corresponden las funciones y atribuciones que se establecen en la presente Ley y aquellas que le sean delegadas”. Asimismo el artículo 15° literal a) de la misma norma jurídica índica que “es atribución del Consejo Regional aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional”, concordante con el Articulo 37° literal a) que establece que “los Gobiernos Regionales, a través de sus órganos de gobierno, dictan las normas y disposiciones. El Consejo Regional: Ordenanzas Regionales y Acuerdos del Consejo Regional”.
+Que, a través del Informe Legal N° 33-2018-GR PUNO/ORAJ, la Oficina de Asesoría Jurídica del Gobierno Regional de Puno opina “que la Ordenanza Regional N° 010-2018-GR PUNO-CRP, contraviene el marco legal vigente, por aprobar ampliación de cobertura de la Asociación Fondo Contra Accidentes de Tránsito (FONCAT REGION - PUNO) Y (AFOCAT) para que emita certificados contra accidentes de tránsito (CAT), para todo tipo de vehículos motorizados de transporte terrestre, servicio de pasajeros urbano, interurbano e interprovincial, de carga mayor y menor, particulares y privados dentro del ámbito regional”.
+Que, conforme a la Ley N° 27181 “Ley General de Transporte y Tránsito Terrestre”, modificada por el Decreto Legislativo N° 1051, la referida disposición (Ordenanza Regional N° 010-2018-GR PUNO-CRP) contravendría el ordenamiento jurídíco vigente, pues la naturaleza de la creación de los FONCAT y AFOCAT es la de brindar cobertura -Art. 30.1o- “exclusivamente a vehículos de transporte provincial de personas, urbano e interurbano, incluyendo el transporte especial de personas en mototaxis que presten servicios al interior de la región o provincia, que sólo tendrán validez dentro de la respectiva circunscripción de funcionamiento”.
+Que, en uso de las atribuciones conferidas por la Ley N° 27867 “Ley Orgánica de Gobiernos Regionales” y sus modificatorias Ley N° 29053, Ley N° 27902, Ley N° 28013, Ley N°28926 y la Ley 28961, el Pleno del Consejo Regional ha aprobado por mayoría calificada y:
+ORDENA:
