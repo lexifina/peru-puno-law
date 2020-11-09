@@ -1,0 +1,1 @@
+Artículo Segundo.- ENCARGAR, al Órgano Ejecutivo Regional, en coordinación con las Gerencias Regionales, las 34 Unidades Ejecutoras del Gobierno Regional de Puno y todas las Entidades Públicas y/o Estatales de la Región; el cumplimiento y difusión de la presente ordenanza.
