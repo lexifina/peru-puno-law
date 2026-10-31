@@ -1,0 +1,11 @@
+{
+  "path": "pe-pun",
+  "code": "PE-PUN",
+  "name": "Puno",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-puno-law",
+  "build": "built: 120 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}

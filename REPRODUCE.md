@@ -1,0 +1,189 @@
+# How this repository was made (Puno)
+
+This file is written by the build on 2026-10-31, the day the source data was retrieved.
+
+## Sources
+
+| Source | Address | Retrieved | Licence |
+| --- | --- | --- | --- |
+| Diario Oficial El Peruano, Normas Legales (Empresa Peruana de Servicios Editoriales S.A. - Editora Perú) | <https://busquedas.elperuano.pe> | 2026-10-31 | Official texts of a legislative nature: not protected by copyright in Peru (Decreto Legislativo 822, Ley sobre el Derecho de Autor, art. 9 b: "Artículo 9.- No son objeto de protección por el derecho de autor: [...] b. Los textos oficiales de carácter legislativo, administrativo o judicial, ni las traducciones oficiales de los mismos, sin perjuicio de la obligación de respetar los textos y citar la fuente."). The source states no restriction on reuse. Reproduced with attribution, respecting the text. |
+
+Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
+
+## What is in it
+
+| Act | Title | Versions | Span |
+| --- | --- | ---: | --- |
+| `ordenanza-regional-000012-2026-grp-gr-puno` | Ordenanza Regional N° 000012-2026-GRP/GR PUNO: Ordenanza Regional que aprueba el Programa Regional de Educación, Cultura y Ciudadanía Ambiental de Puno - Programa Regional EDUCCA Puno | 1 | 2026-10-19 to 2026-10-19 |
+| `ordenanza-regional-000013-2026-grp-gr-puno` | Ordenanza Regional N° 000013-2026-GRP/GR PUNO: Aprueban el Reglamento de Supervisión, Fiscalización y Sanción en Materia Ambiental de la Entidad de Fiscalización Ambiental- EFA del Gobierno Regional de Puno | 1 | 2026-10-19 to 2026-10-19 |
+| `ordenanza-regional-000008-2026-grp-gr-puno` | Ordenanza Regional N° 000008-2026-GRP/GR PUNO: Ordenanza Regional que aprueba la incorporación de procedimientos administrativos al Texto Único de Procedimientos Administrativos TUPA del Gobierno Regional Puno, en materia de Transportes y Comunicaciones y en materia de Energía y Minas | 1 | 2026-10-12 to 2026-10-12 |
+| `ordenanza-regional-000010-2026-grp-gr-puno` | Ordenanza Regional N° 000010-2026-GRP/GR PUNO: Garantizan el acceso, matrícula, permanencia, participación y continuidad educativa de las niñas, niños y adolescentes acogidos en los Centros de Acogida Residencial – CAR, ubicados en el ámbito de la Región Puno | 1 | 2026-10-05 to 2026-10-05 |
+| `ordenanza-regional-000007-2026-grp-gr-puno` | Ordenanza Regional N° 000007-2026-GRP/GR PUNO: Ordenanza Regional que aprueba el Plan Regional de Competitividad y Productividad del departamento de Puno 2026-2033 | 1 | 2026-09-04 to 2026-09-04 |
+| `ordenanza-regional-000005-2026-grp-gr-puno` | Ordenanza Regional N° 000005-2026-GRP/GR PUNO: Ordenanza Regional que crea e implementa el Programa de Enfermería Escolar en las instituciones educativas públicas de la Región Puno | 1 | 2026-08-19 to 2026-08-19 |
+| `ordenanza-regional-000026-2025-grp-gr-puno` | Ordenanza Regional N° 000026-2025-GRP/GR PUNO: Declaran de prioridad institucional y establecen la obligatoriedad, adecuación e implementación progresiva de la Metodología Building Information Modeling (BIM) en proyectos de inversión pública, conforme a los lineamientos de la Dirección General de Pr | 1 | 2026-03-01 to 2026-03-01 |
+| `ordenanza-regional-000018-2025-grp-gr-puno` | Ordenanza Regional N° 000018-2025-GRP/GR PUNO: Ordenanza Regional que declara de interés regional la regulación del régimen de intangibilidad, protección, conservación, defensa y mantenimiento de las áreas verdes de uso público en la región Puno | 1 | 2025-12-05 to 2025-12-05 |
+| `ordenanza-regional-000006-2025-grp-gr-puno` | Ordenanza Regional N° 000006-2025-GRP/GR PUNO: Modifican el Titulo IX y Artículo 136° del Reglamento Interno del Consejo Regional de Puno, aprobado mediante Ordenanza Regional Nº 029-2023-GR PUNO-CRP | 1 | 2025-10-26 to 2025-10-26 |
+| `ordenanza-regional-000017-2025-grp-gr-puno` | Ordenanza Regional N° 000017-2025-GRP/GR PUNO: Ordenanza Regional que aprueba la adecuación de la Comisión Ambiental Regional (CAR) Puno y la implementación del Sistema Regional de Gestión Ambiental (SRGA) del Gobierno Regional Puno | 1 | 2025-10-24 to 2025-10-24 |
+| `ordenanza-regional-000015-2025-grp-gr-puno` | Ordenanza Regional N° 000015-2025-GRP/GR PUNO: Ordenanza Regional que declara en Situación de Emergencia Ambiental por la presencia de actividad minera ilegal e informal, para su control, supervisión y fiscalización en el departamento de Puno, con mayor incidencia en las provincias de Carabaya, Sand | 1 | 2025-10-24 to 2025-10-24 |
+| `ordenanza-regional-023-2024-grp-crp` | Ordenanza Regional N° 023 -2024-GRP-CRP: Ordenanza Regional que declara de prioridad e interés regional la priorización de proyectos de infraestructua para la gestión de residuos sólidos municipales en la Región Puno | 1 | 2025-10-05 to 2025-10-05 |
+| `ordenanza-regional-0000072025-grp-gr-puno` | Ordenanza Regional N° 000007–2025-GRP/GR PUNO: Aprueban la creación de la Instancia de Articulación Regional de Desarrollo e Inclusión Social (IAR-DIS) de la región de Puno | 1 | 2025-09-06 to 2025-09-06 |
+| `ordenanza-regional-000014-2025-grp-gr-puno` | Ordenanza Regional N° 000014-2025-GRP/GR PUNO: Aprueban el Plan de Desarrollo Regional Concertado Puno al 2034, y dictan otras disposiciones | 1 | 2025-09-04 to 2025-09-04 |
+| `ordenanza-regional-000013-2025-grp-gr-puno` | Ordenanza Regional N° 000013-2025-GRP/ GR PUNO: Ordenanza Regional que aprueba el Reglamento de Audiencias Públicas de Rendición de Cuentas del Gobierno Regional de Puno | 1 | 2025-08-29 to 2025-08-29 |
+| `ordenanza-regional-021-2024-grp-crp` | Ordenanza Regional N° 021-2024-GRP-CRP: Ordenanza Regional que declara de interés regional a la provincia de Chucuito - Juli como "Capital Turística del corredor turístico aymara de la región Puno" | 1 | 2025-07-18 to 2025-07-18 |
+| `ordenanza-regional-000001-2025-grp-gr-puno` | Ordenanza Regional N° 000001-2025-GRP/GR PUNO: Declaran de interés y necesidad pública regional la implementación de la Política Regional denominada “Alimentos Fortificados en la Lucha Contra la Anemia Al 2030" | 1 | 2025-07-18 to 2025-07-18 |
+| `ordenanza-regional-026-2024-grp-crp` | Ordenanza Regional N° 026-2024-GRP-CRP: Ordenanza Regional que aprueba la creación del Calendario de Actividades Turísticas y Culturales de la Región Puno | 1 | 2025-07-17 to 2025-07-17 |
+| `ordenanza-regional-006-2024-grp-crp` | Ordenanza Regional N° 006-2024-GRP-CRP: Ordenanza Regional que declara de interés regional la lucha contra los delitos aduaneros y la piratería y promueve su implementación y difusión dentro de la Región de Puno | 1 | 2024-11-21 to 2024-11-21 |
+| `ordenanza-regional-016-2024-grp-crp` | Ordenanza Regional N° 016 -2024-GRP-CRP: Ordenanza Regional que modifica el artículo Primero de la Ordenanza Regional Nº 015-2015-GRP-CRP por el cual se conforma el Consejo Regional de la Mujer en la Región de Puno | 1 | 2024-11-01 to 2024-11-01 |
+| `ordenanza-regional-017-2024-grp-crp` | Ordenanza Regional N° 017-2024-GRP-CRP: Ordenanza Regional que aprueba la modificación del Texto Único de Procedimientos Administrativos -TUPA del Gobierno Regional Puno | 1 | 2024-10-27 to 2024-10-27 |
+| `ordenanza-regional-015-2024-grp-crp` | Ordenanza Regional N° 015-2024-GRP-CRP: Ordenanza Regional que declara de interés regional la implementación de proyectos productivos de inversión pública en acuicultura para el desarrollo y promoción de la actividad acuícola en el departamento de Puno | 1 | 2024-10-21 to 2024-10-21 |
+| `ordenanza-regional-014-2024-grp-crp` | Ordenanza Regional N° 014-2024-GRP-CRP: Ordenanza Regional que declara de Prioridad Regional y Necesidad Pública el proyecto de escisión (separación) de la especialidad de música de la ESFA - Puno, para su funcionamiento autónomo con la denominación: Escuela Superior de Formación Artística Pública d | 1 | 2024-10-06 to 2024-10-06 |
+| `ordenanza-regional-033-2023-grp-crp` | Ordenanza Regional N° 033-2023-GRP-CRP: Crean la “Mesa Técnica Regional Interinstitucional para el Desarrollo de las Personas con Discapacidad” – METREDPEDIS | 1 | 2024-10-05 to 2024-10-05 |
+| `ordenanza-regional-012-2024-grp-crp` | Ordenanza Regional N° 012-2024-GRP-CRP: Ordenanza Regional que declara de interés regional la implementación de proyectos de infraestructura natural, así como la forestación y reforestación, mediante la instalación de especies nativas forestales a fin de la provisión de servicios ambientales | 1 | 2024-09-20 to 2024-09-20 |
+| `ordenanza-regional-003-2024-grp-crp` | Ordenanza Regional N° 003-2024-GRP-CRP: Ordenanza Regional que declara de interés regional la actualización de la Estrategia Regional de Cambio Climático - ERCC de la región Puno | 1 | 2024-09-20 to 2024-09-20 |
+| `ordenanza-regional-001-2024-grp-crp` | Ordenanza Regional N° 001-2024-GRP-CRP: Ordenanza Regional que declara de necesidad pública e interés regional el reconocimiento y creación del Geoparque del Glaciar Quelccaya | 1 | 2024-09-20 to 2024-09-20 |
+| `ordenanza-regional-027-2023-grp-crp` | Ordenanza Regional N° 027-2023-GRP-CRP: Declaran de interés y prioridad regional la implementación de Mecanismos de Retribución por Servicios Ecosistémicos (MERESE) en las diferentes cuencas del ámbito del Gobierno Regional de Puno | 1 | 2024-09-20 to 2024-09-20 |
+| `ordenanza-regional-011-2024-grp-crp` | Ordenanza Regional N° 011-2024-GRP-CRP: Declaran de interés e importancia regional el reconocimiento y valoración de la producción intelectual de Pablo Arturo Peralta Miranda, conocido bajo el seudónimo de Gamaliel Churata, notable intelectual puneño | 1 | 2024-09-16 to 2024-09-16 |
+| `ordenanza-regional-010-2024-grp-crp` | Ordenanza Regional N° 010-2024-GRP-CRP: Ordenanza Regional que declara como "Cuna de la Cultura Lupaca" a las provincias de Puno, Chucuito y El Collao, ubicadas en el departamento de Puno, en reconocimiento a su importancia histórica y cultural como centro de desarrollo de esta civilización preincai | 1 | 2024-09-16 to 2024-09-16 |
+| `ordenanza-regional-009-2024-grp-crp` | Ordenanza Regional N° 009-2024-GRP-CRP: Ordenanza Regional que promueve la incorporación del enfoque intercultural; el uso, preservación, desarrollo, recuperación, fomento y difusión de las lenguas indígenas, originarias, así como la promoción de la diversidad cultural para la prevención y sanción d | 1 | 2024-09-16 to 2024-09-16 |
+| `ordenanza-regional-008-2024-grp-crp` | Ordenanza Regional N° 008-2024-GRP-CRP: Ordenanza Regional que reconoce y promueve la motivación en el ejercicio profesional del personal docente, administrativo y directivo de las Instituciones Educativas de Educación Básica y Técnico - Productiva, a través de la creación del Programa de Reconocimi | 1 | 2024-09-16 to 2024-09-16 |
+| `ordenanza-regional-007-2024-grp-crp` | Ordenanza Regional N° 007-2024-GRP-CRP: Ordenanza Regional que declara de necesidad pública e interés regional la articulación interinstitucional entre los proyectos de inversión pública productiva del pliego del Gobierno Regional y las Instituciones Superiores Tecnológicas, Centros de Educación Téc | 1 | 2024-09-16 to 2024-09-16 |
+| `ordenanza-regional-031-2023-grp-crp` | Ordenanza Regional N° 031-2023-GRP-CRP: Ordenanza Regional que declara de necesidad pública e interés regional la promoción del fortalecimiento de las familias y la conciliación entre la vida familiar y el trabajo | 1 | 2024-08-12 to 2024-08-12 |
+| `ordenanza-regional-032-2023-grp-crp` | Ordenanza Regional N° 032-2023-GRP-CRP: Ordenanza que aprueba el Plan de Acción Regional de Seguridad Ciudadana 2024-2027 del Gobierno Regional de Puno | 1 | 2024-05-31 to 2024-05-31 |
+| `ordenanza-regional-019-2022-grp-crp` | Ordenanza Regional N° 019 -2022-GRP-CRP: Ordenanza Regional que aprueba la creación y conformación del Comité Consultivo Regional de Turismo - CCRT PUNO | 1 | 2024-05-31 to 2024-05-31 |
+| `ordenanza-regional-015-2019-gr-puno-crp` | Ordenanza Regional N° 015-2019-GR PUNO-CRP: Aprueban la creación del Consejo Regional para las Personas Adultas Mayores - COREPAM PUNO y el Consejo Regional de Asesores - COREA PUNO | 1 | 2024-03-17 to 2024-03-17 |
+| `ordenanza-regional-026-2023-grp-crp` | Ordenanza Regional N° 026 -2023-GRP-CRP: Ordenanza que institucionaliza el 18 de mayo de cada año como el “Día del Fortalecimiento de los Derechos de las Mujeres Indígenas u Originarias en la Región de Puno”, en cumplimiento de la Ley 31048 | 1 | 2024-02-08 to 2024-02-08 |
+| `ordenanza-regional-11-2023-grp-crp` | Ordenanza Regional N° 11-2023-GRP-CRP: Ordenanza Regional que declara de necesidad e interés público la implementación de proyectos, acciones y actividades coordinadas para la reducción del riesgo ante el déficit hídrico en el ámbito de la Región de Puno | 1 | 2023-12-30 to 2023-12-30 |
+| `ordenanza-regional-029-2023-grp-crp` | Ordenanza Regional N° 029 2023-GRP-CRP: Ordenanza que aprueba el Reglamento Interno del Consejo Regional del Gobierno Regional Puno | 1 | 2023-12-29 to 2023-12-29 |
+| `ordenanza-regional-002-2023-gr-puno-crp` | Ordenanza Regional N° 002-2023-GR PUNO/CRP: Ordenanza que aprueba el Plan de Acción Regional de Seguridad Ciudadana 2023 del Gobierno Regional de Puno | 1 | 2023-12-24 to 2023-12-24 |
+| `ordenanza-regional-024-2023-grp-crp` | Ordenanza Regional N° 024-2023-GRP-CRP: Declaran de necesidad e interés público regional a los Centros de Educación Técnico-Productivo - CETPROS de gestión pública | 1 | 2023-12-15 to 2023-12-15 |
+| `ordenanza-regional-021-2023-grp-crp` | Ordenanza Regional N° 021-2023-GRP-CRP: Reconocen y declaran  de interés regional la conmemoración del centenario de la rebelión de Huancho Lima (1923-2023) en la provincia de Huancané región de Puno | 1 | 2023-12-14 to 2023-12-14 |
+| `ordenanza-regional-016-2023-grp-crp` | Ordenanza Regional N° 016-2023-GRP-CRP: Declaran e institucionalizan en la jurisdicción de la región Puno, el 22 de julio de todos los años, día del trabajo de las amas de casa | 1 | 2023-12-02 to 2023-12-02 |
+| `ordenanza-regional-022-2023-grp-crp` | Ordenanza Regional N° 022-2023-GRP-CRP: Ordenanza que declara al Kankacho Ayavireño como patrimonio gastronómico regional y plato típico del distrito de Ayaviri, provincia de Melgar, reconociendo su importancia como representante culinario de la Región de Puno | 1 | 2023-10-24 to 2023-10-24 |
+| `ordenanza-regional-020-2023-grp-crp` | Ordenanza Regional N° 020-2023-GRP-CRP: Aprueban el Reglamento de Organización y Funciones (ROF) del Gobierno Regional Puno | 1 | 2023-10-04 to 2023-10-04 |
+| `ordenanza-regional-10-2023-grp-crp` | Ordenanza Regional N° 10-2023-GRP-CRP: Aprueban el Mapa Regional de Ecosistemas y el Mapa de Áreas Degradadas en Ecosistemas Terrestres de la Región de Puno | 1 | 2023-09-22 to 2023-09-22 |
+| `ordenanza-regional-008-2023-grp-crp` | Ordenanza Regional N° 008-2023-GRP-CRP: Declaran de necesidad pública e interés regional, la creación del Centro Ocupacional Integral de Reinserción Laboral y Desarrollo de Capacidades para las personas con discapacidad de la Región de Puno | 1 | 2023-09-18 to 2023-09-18 |
+| `ordenanza-regional-004-2023-grp-crp` | Ordenanza Regional N° 004-2023-GRP-CRP: Ordenanza que crea, implementa y pone en funcionamiento la Orquesta Sinfónica de la Región de Puno | 1 | 2023-09-18 to 2023-09-18 |
+| `ordenanza-regional-006-2023-grp-crp` | Ordenanza Regional N° 006-2023-GRP-CRP: Declaran el 10 de setiembre de cada año como el “DIA REGIONAL DEL PAN” | 1 | 2023-09-09 to 2023-09-09 |
+| `ordenanza-regional-013-2023-grp-crp` | Ordenanza Regional N° 013-2023-GRP-CRP: Declaran en situación de emergencia el sector agrario y riego en la región de Puno y aprueban Plan de Emergencia | 1 | 2023-09-03 to 2023-09-03 |
+| `ordenanza-regional-012-2023-grp-crp` | Ordenanza Regional N° 012-2023-GRP-CRP: Modifican la Ordenanza Regional N° 017-2012-GRP-CRP, que crea Comisión Regional Anticorrupción de Puno | 1 | 2023-08-17 to 2023-08-17 |
+| `ordenanza-regional-005-2023-grp-crp` | Ordenanza Regional N° 005-2023-GRP-CRP: Aprueban la Creación del Registro Regional de las Personas con Discapacidad del Gobierno Regional de Puno | 1 | 2023-06-29 to 2023-06-29 |
+| `ordenanza-regional-020-2022-grp-crp` | Ordenanza Regional N° 020-2022-GRP-CRP: Ordenanza Regional que declara de necesidad e interés público regional la siembra y cosecha de agua con participación de las comunidades campesinas y mujeres rurales | 1 | 2023-06-10 to 2023-06-10 |
+| `ordenanza-regional-011-2022-grp-crp` | Ordenanza Regional N° 011-2022-GRP-CRP: Aprueban el Plan Regional del Deporte- Puno 2022-2030 en la Región de Puno | 1 | 2023-06-01 to 2023-06-01 |
+| `ordenanza-regional-001-2023-gr-puno-crp` | Ordenanza Regional N° 001-2023-GR PUNO/CRP: Modifican el Reglamento de Organización y Funciones del Gobierno Regional de Puno | 1 | 2023-03-10 to 2023-03-10 |
+| `ordenanza-regional-025-2022-grp-crp` | Ordenanza Regional N° 025-2022-GRP-CRP: Ordenanza Regional que aprueba los derechos de tramitación de los procedimientos administrativos estandarizados y servicios prestados en exclusividad, que corresponden a la Sede Regional, Direcciones Regionales de: Educación, Transportes y Comunicaciones, Prod | 1 | 2023-03-03 to 2023-03-03 |
+| `ordenanza-regional-022-2022-grp-crp` | Ordenanza Regional N° 022-2022-GRP-CRP: Aprueban el Protocolo Intersectorial para la Prevención y Persecución del Delito y la Protección, Atención y Reintegración de Víctimas de Trata de Personas de la Región Puno | 1 | 2023-02-23 to 2023-02-23 |
+| `ordenanza-regional-014-2021-grp-crp` | Ordenanza Regional N° 014-2021-GRP-CRP: Modifican el artículo primero de la Ordenanza Regional N° 005-2018-GR PUNO-CRP | 1 | 2022-11-10 to 2022-11-10 |
+| `ordenanza-regional-013-2022-grp-crp` | Ordenanza Regional N° 013-2022-GRP-CRP: Establecen como requisito obligatorio para el ejercicio profesional en la Administración Pública y privada del ámbito de la Región de Puno, la acreditación de su inscripción y habilidad profesional vigente en el Colegio Profesional respectivo | 1 | 2022-10-14 to 2022-10-14 |
+| `ordenanza-regional-007-2022-grp-crp` | Ordenanza Regional N° 007-2022-GRP-CRP: Ordenanza Regional que declara al café puneño como uno de los productos emblema de la Región Puno | 1 | 2022-08-27 to 2022-08-27 |
+| `ordenanza-regional-007-2021-grp-crp` | Ordenanza Regional N° 007-2021-GRP-CRP: Ordenanza Regional que crea la Mesa Técnica Regional del Café en la Región Puno | 1 | 2022-08-27 to 2022-08-27 |
+| `ordenanza-regional-013-2021-grp-crp` | Ordenanza Regional N° 013-2021-GRP-CRP: Crean la Red Regional de Organizaciones de Mujeres Empresarias Emprendedoras de la Región Puno | 1 | 2022-07-21 to 2022-07-21 |
+| `ordenanza-regional-008-2022-grp-crp` | Ordenanza Regional N° 008-2022-GRP-CRP: Aprueban la incorporación de los Procedimientos Administrativos Estandarizados y Servicios Exclusivos en el Texto Único de Procedimientos Administrativos TUPA de la Sede del Gobierno Regional de Puno | 1 | 2022-07-10 to 2022-07-10 |
+| `ordenanza-regional-015-2021-grp-crp` | Ordenanza Regional N° 015-2021-GRP-CRP: Ordenanza Regional que promueve la Agricultura Familiar, el empoderamiento y acceso a factores de producción de las mujeres rurales en la región de Puno | 1 | 2022-06-25 to 2022-06-25 |
+| `ordenanza-regional-006-2022-grp-crp` | Ordenanza Regional N° 006-2022-GRP-CRP: Declaran a la Wiphala como símbolo de los pueblos originarios quechuas, aymaras, uros y mestizos en la región Puno | 1 | 2022-06-16 to 2022-06-16 |
+| `ordenanza-regional-012-2021-grp-crp` | Ordenanza Regional N° 012-2021-GRP-CRP: Crean el Consejo Regional de Cultura del Gobierno Regional de Puno | 1 | 2022-05-28 to 2022-05-28 |
+| `ordenanza-regional-018-2021-grp-crp` | Ordenanza Regional N° 018-2021-GRP-CRP: Aprueban el Plan Estratégico Regional de Turismo  - PERTUR PUNO 2021 - 2026 y declaran de necesidad pública e interés regional al Turismo como estrategia de desarrollo prioritaria, con efecto vinculante para los actores públicos y privados de la Región Puno | 1 | 2022-04-23 to 2022-04-23 |
+| `ordenanza-regional-028-2019-gr-puno-crp` | Ordenanza Regional N° 028-2019-GR.PUNO-CRP: Aprueban el "Reglamento de Conformación y Funcionamiento del Comité de Control y Vigilancia Ciudadana en la Ejecución de Obras Públicas por Administración Directa en el Gobierno Regional Puno" | 1 | 2021-12-05 to 2021-12-05 |
+| `ordenanza-regional-009-2021-grp-crp` | Ordenanza Regional N° 009-2021-GRP-CRP: Ordenanza Regional que aprueba el Plan de Acción Regional de Seguridad Ciudadana 2021 del Gobierno Regional Puno | 1 | 2021-09-13 to 2021-09-13 |
+| `ordenanza-regional-006-2021-grp-crp` | Ordenanza Regional N° 006-2021-GRP-CRP: Reconocen y declaran de interés regional "La Batalla de Zepita en las pampas de Chua Chua, Símbolo del Patriotismo e Identidad Nacional" | 1 | 2021-08-21 to 2021-08-21 |
+| `ordenanza-regional-003-2020-grp-crp` | Ordenanza Regional N° 003-2020-GRP-CRP: Declaran como prioridad pública regional la estrategia de gestión territorial “Primero la Infancia” para la articulación de las entidades del Gobierno Regional y Local en la promoción del desarrollo infantil temprano | 1 | 2021-05-06 to 2021-05-06 |
+| `ordenanza-regional-004-2021-grp-crp` | Ordenanza Regional N° 004-2021-GRP-CRP: Ordenanza Regional que aprueba el Reglamento del Consejo de Coordinación Regional | 1 | 2021-04-22 to 2021-04-22 |
+| `ordenanza-regional-003-2021-grp-crp` | Ordenanza Regional N° 003-2021-GRP-CRP: Ordenanza Regional que aprueba el Reglamento del Proceso de Presupuesto Participativo Multianual | 1 | 2021-04-22 to 2021-04-22 |
+| `ordenanza-regional-002-2021-grp-crp` | Ordenanza Regional N° 002-2021-GRP-CRP: Ordenanza Regional que aprueba el Reglamento de Audiencia Pública de Rendición de Cuentas del Gobierno Regional Puno | 1 | 2021-04-22 to 2021-04-22 |
+| `ordenanza-regional-019-2019-gr-puno-crp` | Ordenanza Regional N° 019-2019-GR PUNO-CRP: Aprueban el Plan Regional Exportador PERX Puno al 2025 | 1 | 2020-12-24 to 2020-12-24 |
+| `ordenanza-regional-001-2020-grp-crp` | Ordenanza Regional N° 001-2020-GRP-CRP: Ordenanza Regional para prevenir, atender y sancionar el acoso sexual en espacios públicos, ejercido contra personas que se encuentren o transiten en la jurisdicción de la Región Puno | 1 | 2020-11-09 to 2020-11-09 |
+| `ordenanza-regional-006-2019-gr-puno-crp` | Ordenanza Regional N° 006-2019-GR PUNO-CRP: Aprueban la creación del Consejo Regional Anticorrupción Puno - CRAP, y establecen su conformación y funciones | 1 | 2019-07-25 to 2019-07-25 |
+| `ordenanza-regional-007-2019-gr-puno-crp` | Ordenanza Regional N° 007-2019-GR PUNO-CRP: Declaran como política regional el programa Agua es Vida | 1 | 2019-07-25 to 2019-07-25 |
+| `ordenanza-regional-001-2019-gr-puno-crp` | Ordenanza Regional N° 001-2019-GR PUNO-CRP: Ratifican el Plan Regional de Seguridad Ciudadana 2019 | 1 | 2019-07-13 to 2019-07-13 |
+| `ordenanza-regional-004-2019-gr-puno-crp` | Ordenanza Regional N° 004-2019-GR PUNO-CRP: Declaran como política regional el programa Mi Riego Regional | 1 | 2019-06-14 to 2019-06-14 |
+| `ordenanza-regional-026-2018-gr-puno-crp` | Ordenanza Regional N° 026-2018-GR PUNO-CRP: Aprueban el Reglamento Interno del Consejo Regional del Gobierno Regional de Puno | 1 | 2018-12-29 to 2018-12-29 |
+| `ordenanza-regional-018-2018-gr-puno-crp` | Ordenanza Regional N° 018-2018-GR PUNO-CRP: Disponen que liquidaciones para reconocimiento y pago de Bonificación Diferencial por desempeño de cargo del 30% y 35% a favor del personal administrativo del Sector Educación, sujeto al régimen laboral del D.Leg. N° 276, debe otorgarse en base a la remune | 1 | 2018-10-06 to 2018-10-06 |
+| `ordenanza-regional-000008-2025-grp-gr-puno` | Ordenanza Regional N° 000008-2025-GRP/GR PUNO: Aprueban actualización de la conformación del Consejo Regional de Competitividad y Productividad de la región Puno, y dictan otras disposiciones | 1 | 2025-08-13 to 2025-08-13 |
+| `ordenanza-regional-016-2018-gr-puno-crp` | Ordenanza Regional N° 016-2018-GR PUNO-CRP: Derogan la Ordenanza Regional N° 010-2018-GR PUNO-CRP, que aprobó ampliación de cobertura de la Asociación Fondo Contra Accidentes de Tránsito (FONCAT REGIÓN-PUNO) y de la Asociación Fondo Contra Accidentes de Tránsito (AFOCAT- PUNO) | 1 | 2018-09-12 to 2018-09-12 |
+| `ordenanza-regional-005-2018-gr-puno-crp` | Ordenanza Regional N° 005-2018-GR-PUNO-CRP: Aprueban el Reglamento de Supervisión, Fiscalización y Sanción en Materia Ambiental y el Reglamento de Atención de Denuncias Ambientales del Gobierno Regional de Puno | 1 | 2018-07-19 to 2018-07-19 |
+| `ordenanza-regional-010-2018-gr-puno-crp` | Ordenanza Regional N° 010-2018-GR PUNO-CRP: Aprueba la ampliación de cobertura de la Asociación Fondo Contra Accidentes de Tránsito (FONCAT REGIÓN-PUNO) y de la Asociación Fondo Contra Accidentes de Transito (AFOCAT- PUNO) | 1 | 2018-05-27 to 2018-05-27 |
+| `ordenanza-regional-002-2018-gr-puno-crp` | Ordenanza Regional N° 002-2018-GR PUNO-CRP.: Modificación del Reglamento de Organización y Funciones (ROF) del Gobierno Regional Puno | 1 | 2018-02-18 to 2018-02-18 |
+| `ordenanza-regional-011-2017-gr-puno-crp` | Ordenanza Regional N° 011-2017-GR PUNO-CRP: Ordenanza Regional que dispone institucionalizar y aprobar lineamientos técnicos para transversalizar el enfoque de género en las políticas y gestión institucional del Gobierno Regional Puno | 1 | 2017-12-21 to 2017-12-21 |
+| `ordenanza-regional-07-2017-gr-puno-crp` | Ordenanza Regional N° 07-2017-GR PUNO-CRP: Aprueban la actualización del Sistema Regional de Gestión Ambiental - SRGA de Puno | 1 | 2017-11-06 to 2017-11-06 |
+| `ordenanza-regional-012-2017-gr-puno-crp` | Ordenanza Regional N° 012-2017-GR PUNO-CRP: Aprueban la modificación del Cuadro para Asignación de Personal (CAP-P) de la Dirección Regional de Salud, DIRESA PUNO, redes y hospitales | 1 | 2017-10-28 to 2017-10-28 |
+| `ordenanza-regional-06-2017-gr-puno-crp` | Ordenanza Regional N° 06-2017-GR PUNO-CRP: Aprueba el Plan de Prevención y Reducción del Riesgo de Desastres - Puno al 2021 | 1 | 2017-09-22 to 2017-09-22 |
+| `ordenanza-regional-04-2017-gr-puno-crp` | Ordenanza Regional N° 04-2017-GR PUNO-CRP: Aprueban Plan Regional Anticorrupción de Puno 2017 al 2021 "Rumbo al bicentenario sin corrupción" | 1 | 2017-08-19 to 2017-08-19 |
+| `ordenanza-regional-024-2016-gr-puno-crp` | Ordenanza Regional N° 024-2016-GR PUNO-CRP: Disponen aprobar el incremento de cinco por ciento de puntaje adicional en la etapa de entrevista a las víctimas de violencia política acreditadas en el Registro Único de Victimas en los procesos de selección de personal del Gobierno Regional de Puno | 1 | 2017-05-27 to 2017-05-27 |
+| `ordenanza-regional-030-2016-gr-puno-crp` | Ordenanza Regional N° 030-2016-GR PUNO-CRP: Aprueban el Plan Integral para la Asistencia, Protección y Reintegración de Víctimas de Trata de Personas de la Región Puno 2016 - 2021 | 1 | 2017-05-27 to 2017-05-27 |
+| `ordenanza-regional-029-2016-grp-crp` | Ordenanza Regional N° 029-2016-GRP-CRP: Estrategia Regional de Cambio Climático Puno, 2016 - 2021 y el Plan de Implementación de la Estrategia Regional de Cambio Climático - Puno | 1 | 2017-05-21 to 2017-05-21 |
+| `ordenanza-regional-020-2016-gr-puno-crp` | Ordenanza Regional N° 020-2016-GR PUNO-CRP: Aprueban modificación del Cuadro para Asignación de Personal Provisional (CAP-P) de la Dirección Regional de Salud Puno (Diresa Puno) 2016, y el CAP-P de las Redes de Salud | 1 | 2017-04-01 to 2017-04-01 |
+| `ordenanza-regional-01-2017-gr-puno-crp` | Ordenanza Regional N° 01-2017-GR PUNO-CRP: Aprueban Cuadro para Asignación de Personal Provisional de la Dirección Regional de Educación Puno (DRE Puno) y el Cuadro para Asignación de Personal Provisional de las Unidades de Gestión Educativas Locales (UGEL) de la DRE Puno | 1 | 2017-03-16 to 2017-03-16 |
+| `ordenanza-regional-02-2017-gr-puno-crp` | Ordenanza Regional N° 02-2017-GR PUNO-CRP: Aprueban el Manual de Operaciones de la Autoridad Autónoma INKARI Puno | 1 | 2017-03-12 to 2017-03-12 |
+| `ordenanza-regional-021-2016-gr-puno-crp` | Ordenanza Regional N° 021-2016-GR PUNO-CRP: Aprueban el Plan Regional de Gestión del Riesgo de Desastres 2016 - 2021 | 1 | 2016-12-05 to 2016-12-05 |
+| `ordenanza-regional-018-2016-gr-puno-crp` | Ordenanza Regional N° 018-2016-GR PUNO-CRP: Declaran de interés regional la labor del Voluntariado e implementan el Registro de Voluntarios | 1 | 2016-11-24 to 2016-11-24 |
+| `ordenanza-regional-06-2016-gr-puno-crp` | Ordenanza Regional N° 06-2016-GR PUNO-CRP: Modifican y rectifican la Ordenanza N° 017-2015-GRP-CRP | 1 | 2016-11-24 to 2016-11-24 |
+| `ordenanza-regional-017-2016-gr-puno-crp` | Ordenanza Regional N° 017-2016-GR PUNO-CRP: Autoriza a la Dirección Regional de Transportes, Comunicaciones, Vivienda y Construcción de Puno para emitir autorizaciones en forma excepcional durante el plazo de cinco días hábiles | 1 | 2016-10-09 to 2016-10-09 |
+| `ordenanza-regional-13-2016-gr-puno-crp` | Ordenanza Regional N° 13-2016-GR PUNO-CRP: Declaran de interés regional la realización del “VI Congreso Mundial de la Quinua y III Simposio Internacional de Granos Andinos Puno Perú 2017” | 1 | 2016-09-19 to 2016-09-19 |
+| `ordenanza-regional-016-2016-gr-puno-crp` | Ordenanza Regional N° 016-2016.GR PUNO-CRP: Modifican la Ordenanza Regional Nº 09-2015-GRP-CRP, que declaró de necesidad e interés regional la Autoridad Autónoma INKARI PUNO | 1 | 2016-08-17 to 2016-08-17 |
+| `ordenanza-regional-04-2016-gr-puno-crp` | Ordenanza Regional N° 04-2016-GR PUNO-CRP: Ordenanza Regional que aprueba el Reglamento de Organización y Funciones de la Dirección Regional de Transportes y Comunicaciones Puno | 1 | 2016-04-29 to 2016-04-29 |
+| `ordenanza-regional-005-2015-grp-crp` | Ordenanza Regional N° 005-2015-GRP-CRP: Modifican el Reglamento de Organización y Funciones (ROF) de la Dirección Regional Agraria de Puno | 1 | 2016-01-06 to 2016-01-06 |
+| `ordenanza-regional-014-2015-grp-crp` | Ordenanza Regional N° 014-2015-GRP-CRP: Aprueban la Zonificación Ecológica y Económica del departamento de Puno, ejecutada a nivel de Mesozonificación | 1 | 2015-12-24 to 2015-12-24 |
+| `ordenanza-regional-008-2015-grp-crp` | Ordenanza Regional N° 008-2015-GRP-CRP: Aprueban el “Plan Estratégico Regional de Artesanía PERDAR Puno 2015-2021” | 1 | 2015-12-23 to 2015-12-23 |
+| `ordenanza-regional-04-2013-grp-crp` | Ordenanza Regional N° 04-2013-GRP-CRP: Crean el Grupo Técnico Regional de Recursos Hídricos de la Región Puno | 1 | 2015-12-17 to 2015-12-17 |
+| `ordenanza-regional-004-2015-grp-crp` | Ordenanza Regional N° 004-2015-GRP-CRP: Aprueban el Plan de Acción de la Estrategia Regional de la Diversidad Biológica-Región Puno | 1 | 2015-11-23 to 2015-11-23 |
+| `ordenanza-regional-026-2013-grp-crp` | Ordenanza Regional N° 026-2013-GRP-CRP: Crean el Sistema Regional de Conservación de Puno - SIRECOP. | 1 | 2015-10-29 to 2015-10-29 |
+| `ordenanza-regional-003-2015-grp-crp` | Ordenanza Regional N° 003-2015-GRP-CRP: Aprueban el Cuadro para la Asignación de Personal Provisional de la Dirección Regional de Salud de Puno y el Cuadro para la Asignación de Personal de las REDES de Salud y Hospitales | 1 | 2015-07-17 to 2015-07-17 |
+| `ordenanza-regional-012-2014-grp-crp` | Ordenanza Regional N° 012-2014-GRP-CRP: Aprueban modificaciones del Reglamento de Organización y Funciones (ROF) y Estructura Orgánica de la Dirección Regional de Salud de Puno y de las REDES de Salud y Hospitales | 1 | 2015-07-17 to 2015-07-17 |
+| `ordenanza-regional-015-2011-grp-crp` | Ordenanza Regional N° 015-2011-GRP-CRP: Declaran en emergencia la infraestructura, el equipamiento y la gestión logística del Hospital Regional Manuel Núñez Butrón de Puno | 1 | 2011-11-18 to 2011-11-18 |
+| `ordenanza-regional-015-2010` | Ordenanza Regional N° 015-2010: Aprueban el Plan Regional de Competitividad de Puno | 1 | 2012-11-11 to 2012-11-11 |
+| `ordenanza-regional-002-2015-grp-crp` | Ordenanza Regional N° 002-2015-GRP-CRP: Declaran a la quinua cultivada en la Región Puno como producto Ecológico y Orgánico | 1 | 2015-05-31 to 2015-05-31 |
+| `ordenanza-regional-010-2013-grp-crp` | Ordenanza Regional N° 010-2013-GRP-CRP: Aprueban instrumento de gestión ambiental regional denominado "Diagnóstico Ambiental Regional - Puno - DAR" | 1 | 2013-11-22 to 2013-11-22 |
+| `ordenanza-regional-009-2013-grp-crp` | Ordenanza Regional N° 009-2013-GRP-CRP: Derogan "Diagnóstico Ambiental Regional 2009" aprobada por Ordenanza Regional N° 018-2010 | 1 | 2013-11-22 to 2013-11-22 |
+| `ordenanza-regional-011-2013-grp-crp` | Ordenanza Regional N° 011-2013-GRP-CRP: Aprueban Instrumento de Gestión Ambiental Regional denominado "Estrategia Regional de Adaptación al Cambio Climático (ERCC) Puno" | 1 | 2013-11-21 to 2013-11-21 |
+
+The build made 120 commits:
+
+| Commits | Kind |
+| ---: | --- |
+| 120 | first version of an act |
+| 0 | one law on its in-force day |
+| 0 | changes no amendment note explains, credited to the publisher |
+
+Other counts:
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
+- 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 120 laws in the record.
+- 240 tags.
+
+## Dates
+
+Each commit is dated at noon (America/Lima) on the day the change took effect. The other dates, enacted and published, are trailers.
+
+When a law gives no date of its own, the default rule applies: Constitución Política del Perú, art. 109: "La ley es obligatoria desde el día siguiente de su publicación en el diario oficial, salvo disposición contraria de la misma ley que posterga su vigencia en todo o en parte." Ley Orgánica de Gobiernos Regionales (Ley 27867), art. 42, applies the same rule to regional norms: in force from the day after publication in El Peruano unless the norm itself names another day. https://www.congreso.gob.pe
+
+## How the history is built
+
+`tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
+
+- Corpus: sha256 `cea280454d9dfe07d5a2652ee796cdfb85638b244d27c17a2ca01d2751317652` (1657221 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Python 3.12.10; git version 2.46.0.windows.1.
+
+## Checks
+
+120 versions of 120 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+
+No second build of this corpus has been compared yet.
+
+## Decisions made by hand
+
+- Source: the Diario Oficial El Peruano, Normas Legales, which publishes every ordinance of Gobierno Regional de Puno as enacted. It publishes no consolidated texts, so each ordinance is shown once, as published (the oldest version available), dated on the day it took effect. An ordinance that amends another is its own entry; its changes are not applied to the earlier text.
+- In-force day: the ordinance's own vigencia clause (the day after publication, from publication, or a named date); otherwise the day after publication (Constitución, art. 109; Ley 27867, art. 42). An ordinance whose vigencia clause this reader cannot resolve is left out.
+- Text: the ordinance is cut from El Peruano's PDF extract, from the end of the previous norm to the operation number printed under it. El Peruano's own furniture (running heads, section headings, its summary title above the norm, the operation number) is not part of the text. Annexes that El Peruano does not print are not included.
+- Units: the heading (encabezado: number, considerandos and enacting formula, everything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (dispositions, signatures). Nothing printed between those bounds is dropped. One paragraph per line, spacing normalised, words broken at a line end joined.
+- Ordinances are added newest first, in parts of about 50.
+
+## What AI did and did not do
+
+The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+
+No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
+
+The commit messages are written by `build.py` from the source data.
+
+Model use at data-build time:
+- A model (Claude) wrote the fetch and parse code and chose which ordinances to include; it wrote no law text. Every word of law comes from El Peruano's own PDF extracts.
