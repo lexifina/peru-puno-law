@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-120 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+151 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -132,6 +132,37 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-010-2013-grp-crp/` | Ordenanza Regional N° 010-2013-GRP-CRP: Aprueban instrumento de gestión ambiental regional denominado "Diagnóstico Ambiental Regional - Puno - DAR" | in force 22 November 2013 |
 | `ordenanza-regional-009-2013-grp-crp/` | Ordenanza Regional N° 009-2013-GRP-CRP: Derogan "Diagnóstico Ambiental Regional 2009" aprobada por Ordenanza Regional N° 018-2010 | in force 22 November 2013 |
 | `ordenanza-regional-011-2013-grp-crp/` | Ordenanza Regional N° 011-2013-GRP-CRP: Aprueban Instrumento de Gestión Ambiental Regional denominado "Estrategia Regional de Adaptación al Cambio Climático (ER… | in force 21 November 2013 |
+| `ordenanza-regional-005-2020-grp-crp/` | Ordenanza Regional N° 005-2020-GRP-CRP: Aprueban Cuadro para Asignación de Personal Provisional CAP correspondiente a la Sede de la Dirección Regional de Salud … | in force 27 December 2020 |
+| `ordenanza-regional-018-2019-gr-puno-crp/` | Ordenanza Regional N° 018-2019-GR PUNO-CRP: Derogan la Ordenanza N° 012-2010, en el extremo que aprueba el clasificador de cargos | in force 10 December 2020 |
+| `ordenanza-regional-020-2019-grp-crp/` | Ordenanza Regional N° 020-2019-GRP-CRP: Crean el “Observatorio de la Violencia Contra la Mujer e Integrantes del Grupo Familiar” | in force 9 November 2020 |
+| `ordenanza-regional-012-2018-gr-puno-crp/` | Ordenanza Regional N° 012-2018-GR PUNO-CRP: Ordenanza Regional que aprueba la Agenda Ambiental Regional de Puno 2017 - 2019 | in force 12 October 2018 |
+| `ordenanza-regional-025-2016-gr-puno-crp/` | Ordenanza Regional N° 025-2016-GR PUNO-CRP: Crean la Instancia Regional de Concertación para erradicar la violencia contra las mujeres y los integrantes del gru… | in force 3 August 2018 |
+| `ordenanza-regional-013-2018-gr-puno-crp/` | Ordenanza Regional N° 013-2018-GR PUNO-CRP.: Modifican la Ordenanza Regional N° 025-2016-GRP-CRP | in force 3 August 2018 |
+| `ordenanza-regional-006-2018-gr-puno-crp/` | Ordenanza Regional N° 006-2018-GR PUNO-CRP: Reconocen como problemática de urgente atención la prevención y atención del acoso político contra las mujeres en la… | in force 21 June 2018 |
+| `ordenanza-regional-013-2017-gr-puno-crp/` | Ordenanza Regional N° 013-2017-GR PUNO-CRP: Reconocen al Comité de Salvaguardia de la Festividad de la Virgen de la Candelaria de Puno | in force 19 January 2018 |
+| `ordenanza-regional-09-2015-grp-crp/` | Ordenanza Regional N° 09-2015-GRP-CRP: Declaran de necesidad e interés regional la Autoridad Autónoma INKARI PUNO | in force 28 June 2015 |
+| `ordenanza-regional-012-2013-grp-crp/` | Ordenanza Regional N° 012-2013-GRP-CRP: Aprueban Instrumento de Gestión Ambiental regional denominado "Estrategia Regional de la Diversidad Biológica - región P… | in force 21 November 2013 |
+| `ordenanza-regional-017-2012-grp-crp/` | Ordenanza Regional N° 017-2012-GRP-CRP: Crean la Comisión Regional Anticorrupción de Puno | in force 5 August 2013 |
+| `ordenanza-regional-011-2012-grp-crp/` | Ordenanza Regional N° 011-2012-GRP-CRP: Declaran de interés regional la especie de leguminosa Lupinus Mutabilis Sweet (Tarwi) | in force 24 May 2013 |
+| `ordenanza-regional-003-2013-grp-crp/` | Ordenanza Regional N° 003-2013-GRP-CRP: Aprueban Plan Estratégico de Turismo PERTUR al 2021 | in force 11 April 2013 |
+| `ordenanza-regional-002-2013-grp-crp/` | Ordenanza Regional N° 002-.2013-GRP-CRP: Declaran la alpaca como representativa típica y ancestral de la Región Puno | in force 6 April 2013 |
+| `ordenanza-regional-016-2012-gr-crp/` | Ordenanza Regional N° 016-2012-GR-CRP: Crean la Red Regional contra la Trata de Personas y Tráfico Ilícito de Migrantes en la Región Puno | in force 18 March 2013 |
+| `ordenanza-regional-012-2012-grp-crp/` | Ordenanza Regional N° 012-2012-GRP-CRP: Declaran de necesidad pública e interés regional el acceso de los adolescentes a los servicios de orientación y atención… | in force 18 February 2013 |
+| `ordenanza-regional-006-2012-grp-cr/` | Ordenanza Regional N° 006-2012-GRP-CR: Declaran de necesidad pública e interés regional la priorización de los Proyectos Productivos de Inversión Pública como P… | in force 22 December 2012 |
+| `ordenanza-regional-010-2011-grp-crp/` | Ordenanza Regional N° 010-2011-GRP-CRP: Autorizan a la Dirección Regional de Transportes y Comunicaciones para emitir Autorizaciones especiales para la prestaci… | in force 21 December 2012 |
+| `ordenanza-regional-020-2011-grp-crp/` | Ordenanza Regional N° 020-2011-GRP-CRP: Crean el Sistema de Información Ambiental Regional Puno SIAR-PUNO | in force 1 December 2012 |
+| `ordenanza-regional-13-2012-grp-crp/` | Ordenanza Regional N° 13-2012-GRP-CRP: Declaran a la Quinua como producto andino de interés regional así como producto ancestral, originario, ecológico y repres… | in force 14 November 2012 |
+| `ordenanza-regional-09-2012-grp-crp/` | Ordenanza Regional N° 09-2012-GRP-CRP: Crean el Proyecto Especial Selva Puno - PESEP | in force 17 October 2012 |
+| `ordenanza-regional-022-2011-grp-crg/` | Ordenanza Regional N° 022-2011-GRP-CRG: Declaran de necesidad e interés regional la priorización de la Demarcación Territorial en zonas de conflicto territorial… | in force 7 May 2012 |
+| `ordenanza-regional-04-2012-grp-crp/` | Ordenanza Regional N° 04-2012-GRP-CRP: Declaran de prioridad e interés regional la Salud Materno Neonatal saludable y segura | in force 27 April 2012 |
+| `ordenanza-regional-001-2012-grp-crp/` | Ordenanza Regional N° 001-2012-GRP-CRP: Recomiendan al ejecutivo del Gobierno Regional de Puno  disponer que la Procuraduría Pública Regional promueva trámites … | in force 4 March 2012 |
+| `ordenanza-regional-017-2011-grp-crp/` | Ordenanza Regional N° 017-2011-GRP-CRP: Oficializan idiomas Quechua y Aimara en la región de Puno | in force 18 December 2011 |
+| `ordenanza-regional-016-2011-grp-crp/` | Ordenanza Regional N° 016-2011-GRP-CRP: Declaran a la Región Puno libre de semillas y productos transgénicos, y prohiben su introducción, cultivo, manipulación,… | in force 21 November 2011 |
+| `ordenanza-regional-07-2011-grp-crp/` | Ordenanza Regional N° 07-2011-GRP-CRP: Aprueban la creación del Consejo Regional de la Juventud, el Consejo Regional de la Mujer y el Consejo Regional de la Inf… | in force 27 October 2011 |
+| `ordenanza-regional-04-2011-grp-crp/` | Ordenanza Regional N° 04-2011-GRP-CRP: Aprueban ejecución de la Auditoría a los Estados Financieros y examen especial  a la información presupuestaria de los ej… | in force 26 August 2011 |
+| `ordenanza-regional-016-2010/` | Ordenanza Regional N° 016-2010: Aprueban creación de la Oficina Regional de Atención a las Personas con Discapacidad - OREDIS Puno | in force 18 July 2011 |
+| `ordenanza-regional-014-2010/` | Ordenanza Regional N° 014-2010: Crean el Comité Directivo Regional para la Prevención y Erradicación del Trabajo Infantil (CDRPETI) de la Región Puno | in force 18 July 2011 |
+| `ordenanza-regional-013-2010/` | Ordenanza Regional N° 013-2010: Aprueban Plan Regional de Política de la Formación Profesional Puno | in force 18 July 2011 |
 
 ## Source
 

@@ -149,6 +149,42 @@
     "ordenanza-regional-011-2013-grp-crp"
    ],
    "sha256": "22dede9f874fef9cce44c37919e1657a7e69e76044d508019146787dfe21dd9c"
+  },
+  "33-runner-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2012-grp-crp",
+    "ordenanza-regional-002-2013-grp-crp",
+    "ordenanza-regional-003-2013-grp-crp",
+    "ordenanza-regional-005-2020-grp-crp",
+    "ordenanza-regional-006-2012-grp-cr",
+    "ordenanza-regional-006-2018-gr-puno-crp",
+    "ordenanza-regional-010-2011-grp-crp",
+    "ordenanza-regional-011-2012-grp-crp",
+    "ordenanza-regional-012-2012-grp-crp",
+    "ordenanza-regional-012-2013-grp-crp",
+    "ordenanza-regional-012-2018-gr-puno-crp",
+    "ordenanza-regional-013-2010",
+    "ordenanza-regional-013-2017-gr-puno-crp",
+    "ordenanza-regional-013-2018-gr-puno-crp",
+    "ordenanza-regional-014-2010",
+    "ordenanza-regional-016-2010",
+    "ordenanza-regional-016-2011-grp-crp",
+    "ordenanza-regional-016-2012-gr-crp",
+    "ordenanza-regional-017-2011-grp-crp",
+    "ordenanza-regional-017-2012-grp-crp",
+    "ordenanza-regional-018-2019-gr-puno-crp",
+    "ordenanza-regional-020-2011-grp-crp",
+    "ordenanza-regional-020-2019-grp-crp",
+    "ordenanza-regional-022-2011-grp-crg",
+    "ordenanza-regional-025-2016-gr-puno-crp",
+    "ordenanza-regional-04-2011-grp-crp",
+    "ordenanza-regional-04-2012-grp-crp",
+    "ordenanza-regional-07-2011-grp-crp",
+    "ordenanza-regional-09-2012-grp-crp",
+    "ordenanza-regional-09-2015-grp-crp",
+    "ordenanza-regional-13-2012-grp-crp"
+   ],
+   "sha256": "30d5a15e7cab4f06656fe5a6b0214ebcba05786b55466d524781692632b94dd7"
   }
  },
  "schema": 1
