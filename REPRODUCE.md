@@ -165,20 +165,36 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-016-2010` | Ordenanza Regional N° 016-2010: Aprueban creación de la Oficina Regional de Atención a las Personas con Discapacidad - OREDIS Puno | 1 | 2011-07-18 to 2011-07-18 |
 | `ordenanza-regional-014-2010` | Ordenanza Regional N° 014-2010: Crean el Comité Directivo Regional para la Prevención y Erradicación del Trabajo Infantil (CDRPETI) de la Región Puno | 1 | 2011-07-18 to 2011-07-18 |
 | `ordenanza-regional-013-2010` | Ordenanza Regional N° 013-2010: Aprueban Plan Regional de Política de la Formación Profesional Puno | 1 | 2011-07-18 to 2011-07-18 |
+| `ordenanza-regional-017-2010` | Ordenanza Regional N° 017-2010: Aprueban creación del Consejo Regional del Trabajo y Promoción del Empleo Puno - CRTPE - PUNO | 1 | 2011-07-18 to 2011-07-18 |
+| `ordenanza-regional-05-2011-grp-crp` | Ordenanza Regional N° 05-2011-GRP-CRP: Disponen suspensión de petitorios mineros metálicos en la Zona Sur  hasta la conclusión del proceso de Zonificación Ecológica y Económica y reconocen la preexistencia y existencia de pueblos indígenas Aymaras, Quechuas y Amazónicos en todo el ámbito territorial | 1 | 2011-05-29 to 2011-05-29 |
+| `ordenanza-regional-11-2011-grp-crp` | Ordenanza Regional N° 11-2011-GRP-CRP: Establecen como Reserva Paisajística al monumento natural "Cerro Khapia" | 1 | 2011-05-29 to 2011-05-29 |
+| `ordenanza-regional-018-2010` | Ordenanza Regional N° 018-2010: Aprueban Política Regional del Ambiente del Gobierno Regional de Puno | 1 | 2011-05-19 to 2011-05-19 |
+| `ordenanza-regional-06-2011-grp-crp` | Ordenanza Regional N° 06-2011-GRP-CRP: Aprueban la reestructuración de la Estructura Organizativa del Gobierno Regional de Puno | 1 | 2011-05-15 to 2011-05-15 |
+| `ordenanza-regional-007-2010` | Ordenanza Regional N° 007-2010: Constituyen el Consejo Regional de Ciencia, Tecnología e Innovación de la Región de Puno - CORCYTEC | 1 | 2011-02-04 to 2011-02-04 |
+| `ordenanza-regional-011-2010` | Ordenanza Regional N° 011-2010: Disponen que se considere los meses de enero y febrero del año 2009 para efectos del cómputo del tiempo de servicios a que se refiere la Ley del Presupuesto para el Sector Público del año 2010, previa acreditación de haber percibido remuneración como Auxiliares de Edu | 1 | 2010-12-09 to 2010-12-09 |
+| `ordenanza-regional-005-2010` | Ordenanza Regional N° 005-2010: Aprueban marco normativo y reglamento que establece la regulación, fiscalización y control en el uso de maquinaria pesada, equipo minero y vehículos empleados en actividades mineras de alcance regional | 1 | 2010-05-22 to 2010-05-22 |
+| `ordenanza-regional-008-2010` | Ordenanza Regional N° 008-2010: Aprueban que AFOCAT La Primera emita Certificados Contra Accidentes de Tránsito para vehículos motorizados de Transporte Terrestre | 1 | 2010-05-01 to 2010-05-01 |
+| `ordenanza-regional-003-2010` | Ordenanza Regional N° 003-2010: Aprueban la adecuación de autorizaciones excepcionales para el servicio de transporte vigentes a la promulgacion del D.S. N° 017-20009-MTC y la reducción de patrimonio mínimo para la organización empresarial del servicio de transporte público terrestre | 1 | 2010-04-30 to 2010-04-30 |
+| `ordenanza-regional-008-2008` | Ordenanza Regional N° 008-2008: Aprueban Reglamento de Organizaciones y Funciones del Gobierno Regional de Puno | 1 | 2010-01-16 to 2010-01-16 |
+| `ordenanza-regional-006-2008` | Ordenanza Regional N° 006-2008: Aprueban Cuadro de Asignación de Personal de la Dirección Regional Agraria de Puno | 1 | 2009-12-12 to 2009-12-12 |
+| `ordenanza-regional-003-2009` | Ordenanza Regional N° 003-2009: Aprueban Plan de Operaciones de Emergencia de la Región Puno | 1 | 2009-06-28 to 2009-06-28 |
+| `ordenanza-regional-026-2007` | Ordenanza Regional N° 026-2007: Aprueban el Plan Regional de Prevención y Atención a los Desastres en la Región Puno 2007-2010 | 1 | 2009-06-28 to 2009-06-28 |
+| `ordenanza-regional-017-2008` | Ordenanza Regional N° 017-2008: Aprueban Plan Regional de Desarrollo Ganadero de Puno al 2015 | 1 | 2009-05-07 to 2009-05-07 |
+| `ordenanza-regional-002-2009` | Ordenanza Regional N° 002-2009: Aprueban adecuación de la Comisión Ambiental Regional al D.Leg. N° 1013, Ley de Creación, Organización y Función del Ministerio del Ambiente | 1 | 2009-04-17 to 2009-04-17 |
 
-The build made 151 commits:
+The build made 167 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 151 | first version of an act |
+| 167 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 151 laws in the record.
-- 302 tags.
+- 167 laws in the record.
+- 334 tags.
 
 ## Dates
 
@@ -190,7 +206,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5ae6856f89a0305cb947adf28d80fbf9f2c39fa48831bc9450ea8da2510fecbd` (1988944 bytes).
+- Corpus: sha256 `c611e3db0cbfb377ad811aa5b806abc788402a3eb8799b5edb74d5e497a4fdae` (2185338 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

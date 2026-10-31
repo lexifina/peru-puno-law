@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-151 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+167 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -163,6 +163,22 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-016-2010/` | Ordenanza Regional N° 016-2010: Aprueban creación de la Oficina Regional de Atención a las Personas con Discapacidad - OREDIS Puno | in force 18 July 2011 |
 | `ordenanza-regional-014-2010/` | Ordenanza Regional N° 014-2010: Crean el Comité Directivo Regional para la Prevención y Erradicación del Trabajo Infantil (CDRPETI) de la Región Puno | in force 18 July 2011 |
 | `ordenanza-regional-013-2010/` | Ordenanza Regional N° 013-2010: Aprueban Plan Regional de Política de la Formación Profesional Puno | in force 18 July 2011 |
+| `ordenanza-regional-017-2010/` | Ordenanza Regional N° 017-2010: Aprueban creación del Consejo Regional del Trabajo y Promoción del Empleo Puno - CRTPE - PUNO | in force 18 July 2011 |
+| `ordenanza-regional-05-2011-grp-crp/` | Ordenanza Regional N° 05-2011-GRP-CRP: Disponen suspensión de petitorios mineros metálicos en la Zona Sur  hasta la conclusión del proceso de Zonificación Ecoló… | in force 29 May 2011 |
+| `ordenanza-regional-11-2011-grp-crp/` | Ordenanza Regional N° 11-2011-GRP-CRP: Establecen como Reserva Paisajística al monumento natural "Cerro Khapia" | in force 29 May 2011 |
+| `ordenanza-regional-018-2010/` | Ordenanza Regional N° 018-2010: Aprueban Política Regional del Ambiente del Gobierno Regional de Puno | in force 19 May 2011 |
+| `ordenanza-regional-06-2011-grp-crp/` | Ordenanza Regional N° 06-2011-GRP-CRP: Aprueban la reestructuración de la Estructura Organizativa del Gobierno Regional de Puno | in force 15 May 2011 |
+| `ordenanza-regional-007-2010/` | Ordenanza Regional N° 007-2010: Constituyen el Consejo Regional de Ciencia, Tecnología e Innovación de la Región de Puno - CORCYTEC | in force 4 February 2011 |
+| `ordenanza-regional-011-2010/` | Ordenanza Regional N° 011-2010: Disponen que se considere los meses de enero y febrero del año 2009 para efectos del cómputo del tiempo de servicios a que se re… | in force 9 December 2010 |
+| `ordenanza-regional-005-2010/` | Ordenanza Regional N° 005-2010: Aprueban marco normativo y reglamento que establece la regulación, fiscalización y control en el uso de maquinaria pesada, equip… | in force 22 May 2010 |
+| `ordenanza-regional-008-2010/` | Ordenanza Regional N° 008-2010: Aprueban que AFOCAT La Primera emita Certificados Contra Accidentes de Tránsito para vehículos motorizados de Transporte Terrest… | in force 1 May 2010 |
+| `ordenanza-regional-003-2010/` | Ordenanza Regional N° 003-2010: Aprueban la adecuación de autorizaciones excepcionales para el servicio de transporte vigentes a la promulgacion del D.S. N° 017… | in force 30 April 2010 |
+| `ordenanza-regional-008-2008/` | Ordenanza Regional N° 008-2008: Aprueban Reglamento de Organizaciones y Funciones del Gobierno Regional de Puno | in force 16 January 2010 |
+| `ordenanza-regional-006-2008/` | Ordenanza Regional N° 006-2008: Aprueban Cuadro de Asignación de Personal de la Dirección Regional Agraria de Puno | in force 12 December 2009 |
+| `ordenanza-regional-003-2009/` | Ordenanza Regional N° 003-2009: Aprueban Plan de Operaciones de Emergencia de la Región Puno | in force 28 June 2009 |
+| `ordenanza-regional-026-2007/` | Ordenanza Regional N° 026-2007: Aprueban el Plan Regional de Prevención y Atención a los Desastres en la Región Puno 2007-2010 | in force 28 June 2009 |
+| `ordenanza-regional-017-2008/` | Ordenanza Regional N° 017-2008: Aprueban Plan Regional de Desarrollo Ganadero de Puno al 2015 | in force 7 May 2009 |
+| `ordenanza-regional-002-2009/` | Ordenanza Regional N° 002-2009: Aprueban adecuación de la Comisión Ambiental Regional al D.Leg. N° 1013, Ley de Creación, Organización y Función del Ministerio … | in force 17 April 2009 |
 
 ## Source
 

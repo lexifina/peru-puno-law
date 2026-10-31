@@ -185,6 +185,27 @@
     "ordenanza-regional-13-2012-grp-crp"
    ],
    "sha256": "30d5a15e7cab4f06656fe5a6b0214ebcba05786b55466d524781692632b94dd7"
+  },
+  "33-runner-02.json": {
+   "acts": [
+    "ordenanza-regional-002-2009",
+    "ordenanza-regional-003-2009",
+    "ordenanza-regional-003-2010",
+    "ordenanza-regional-005-2010",
+    "ordenanza-regional-006-2008",
+    "ordenanza-regional-007-2010",
+    "ordenanza-regional-008-2008",
+    "ordenanza-regional-008-2010",
+    "ordenanza-regional-011-2010",
+    "ordenanza-regional-017-2008",
+    "ordenanza-regional-017-2010",
+    "ordenanza-regional-018-2010",
+    "ordenanza-regional-026-2007",
+    "ordenanza-regional-05-2011-grp-crp",
+    "ordenanza-regional-06-2011-grp-crp",
+    "ordenanza-regional-11-2011-grp-crp"
+   ],
+   "sha256": "8e681bb07d111a609a83ff847451f77de5fd2e3f56406da96626f8b25486ccb3"
   }
  },
  "schema": 1
